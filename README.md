@@ -1,4 +1,4 @@
-# MS-Learn-IoT-Learning-paths---AZ220
+# MS-Learn-IoT-Learning-paths-AZ220
 On MS Learn, Microsoft provides several IoT Learning paths, especially for the AZ220 certification
 
 | Learning path                                                                                                                                                                                                                            | LP Duration (H:M) | Modules                                                                                                                                                                                                                    | Lab? | Lab duration (H:M) |
