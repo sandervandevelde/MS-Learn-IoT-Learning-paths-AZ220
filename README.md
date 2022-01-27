@@ -68,3 +68,12 @@ On MS Learn, Microsoft provides several IoT Learning paths, especially for the A
 |                                                                                                                                                                                                                                          |                   | [Monitor and troubleshoot ADT](https://docs.microsoft.com/en-us/learn/modules/monitor-troubleshoot-adt/)                                                                                                                   | N    |                    |
 |                                                                                                                                                                                                                                          |                   | [Explore Azure Digital Twins implementation](https://docs.microsoft.com/en-us/learn/modules/explore-azure-digital-twins-implementation/)                                                                                   | Y    | 1:30               |
 
+## MS Learn collection
+
+This list is also available as [MS Learn collection](https://docs.microsoft.com/en-us/users/sandervandevelde42/collections/8oe5ig34jp5j3e).
+
+_Note_: If you create a profile in MS Learn, you can create your own collections of learning paths.
+
+## Help needed
+
+If you spot there is something wrong or missing, please submit a pull request. 
