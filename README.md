@@ -10,7 +10,7 @@ There are labs available at the end of each learning path. These labs, where you
 
 There is no need for a creditcard, you only have to create an MS Learn profile to get access.
 
-This list of modules will also help you to get the AZ-220 Azure IoT Developer exam.  
+This list of modules will also help you to get the AZ-220 Azure IoT Developer exam. Check out the 'official' list [here](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220?WT.mc_id=IoT-MVP-5002324).
 
 ## The learning paths and related modules
 
