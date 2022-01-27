@@ -1,5 +1,16 @@
 # MS-Learn-IoT-Learning-paths-AZ220
+
 On MS Learn, Microsoft provides several IoT Learning paths, especially for the AZ220 certification
+
+## Introduction
+
+Here is a list of the (new) MS Learn learning paths. Each path is build up in a number of modules. 
+
+There are labs available at the end of each learning path. These labs, where you get access to the Azure portal, including Azure resources, are provided for free. A lab has to be executed within a certain amount of time. Plus, you can only run a (somewhat) limited amount of labs each day.
+
+There is no need for a creditcard, you only have to create an MS Learn profile to get access.
+
+## The learning paths and related modules
 
 | Learning path                                                                                                                                                                                                                            | LP Duration (H:M) | Modules                                                                                                                                                                                                                    | Lab? | Lab duration (H:M) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------ |
